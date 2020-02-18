@@ -1,0 +1,16 @@
+.User{
+    padding: 1rem;
+}
+.UserCard{
+    margin: 1rem;
+    padding: 1rem 0.5rem;
+}
+.UserCard > img{
+    height: 200px;
+}
+.card-title{
+    font-size: 1.4rem !important;
+}
+.card-title:hover{
+    color: #f7c22d !important;
+}
